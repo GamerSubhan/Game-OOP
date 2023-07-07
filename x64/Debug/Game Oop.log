@@ -1,0 +1,29 @@
+﻿  Game Oop.cpp
+C:\Users\satak\Documents\Game Oop\Game Oop\Game Oop.cpp(30,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\satak\Documents\Game Oop\Game Oop\Game Oop.cpp(30,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\satak\Documents\Game Oop\Game Oop\Game Oop.cpp(38,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\satak\Documents\Game Oop\Game Oop\Game Oop.cpp(67,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\satak\Documents\Game Oop\Game Oop\Game Oop.cpp(67,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\satak\Documents\Game Oop\Game Oop\Game Oop.cpp(69,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\satak\Documents\Game Oop\Game Oop\Game Oop.cpp(96,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\satak\Documents\Game Oop\Game Oop\Game Oop.cpp(97,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\satak\Documents\Game Oop\Game Oop\Game Oop.cpp(149,41): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\satak\Documents\Game Oop\Game Oop\Game Oop.cpp(150,41): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\satak\Documents\Game Oop\Game Oop\Game Oop.cpp(154,1): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\satak\Documents\Game Oop\Game Oop\Game Oop.cpp(155,1): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\satak\Documents\Game Oop\Game Oop\Game Oop.cpp(186,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\satak\Documents\Game Oop\Game Oop\Game Oop.cpp(226,43): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\satak\Documents\Game Oop\Game Oop\Game Oop.cpp(227,49): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\satak\Documents\Game Oop\Game Oop\Game Oop.cpp(228,45): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\satak\Documents\Game Oop\Game Oop\Game Oop.cpp(239,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\satak\Documents\Game Oop\Game Oop\Game Oop.cpp(260,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\satak\Documents\Game Oop\Game Oop\Game Oop.cpp(260,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\satak\Documents\Game Oop\Game Oop\Game Oop.cpp(282,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\satak\Documents\Game Oop\Game Oop\Game Oop.cpp(282,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\satak\Documents\Game Oop\Game Oop\Game Oop.cpp(292,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\satak\Documents\Game Oop\Game Oop\Game Oop.cpp(292,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\satak\Documents\Game Oop\Game Oop\Game Oop.cpp(292,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\satak\Documents\Game Oop\Game Oop\Game Oop.cpp(304,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\satak\Documents\Game Oop\Game Oop\Game Oop.cpp(304,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\satak\Documents\Game Oop\Game Oop\Game Oop.cpp(326,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Game Oop.vcxproj -> C:\Users\satak\Documents\Game Oop\x64\Debug\Game Oop.exe
